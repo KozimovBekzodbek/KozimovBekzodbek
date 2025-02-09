@@ -38,6 +38,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+   <img width="12" />
+  <img src=" https://github.com/devicons/devicon/blob/v2.16.0/icons/archlinux/archlinux-original.svg" height="40" alt="vim logo"  />
+ 
 </div>
 
 ###
