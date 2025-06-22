@@ -1,49 +1,49 @@
-<h1 align="center">Assalomu alekum Mr | Mrs <br>I'm glad to see you here</h1>
+# Bekzodbek Kozimov
 
-###
+**Software Engineer | Backend Developer | Django Enthusiast**
 
-<h3 align="left">My name is Bekzodbek and I'm a software engineer from Uzbekistan.</h3>
+---
 
-###
+### 🌐 About Me
 
-<h2 align="left">About me</h2>
+I am a software engineer from Uzbekistan with a passion for building clean, scalable, and efficient backend systems. I specialize in Python and Django, and I enjoy crafting APIs that solve real-world problems.
 
-###
+I believe in continuous learning and growth — not just as a developer, but as a thinker and contributor to the global tech community.
 
-<h1 align="left">✨ Creating bugs since 2023<br><br>📚 I'm currently learning Computer Engineering<br><br>🎯 Goals: I won't tell you my goal. You'll know that day<br><br>🎲 Fun fact: I know biology better than programming and my favorite sport is wrestling.</h1>
+---
 
-###
+### ⚙️ Tech Stack
 
-<h2 align="left">I code with</h2>
+* **Languages:** Python, JavaScript, C#
+* **Frameworks:** Django, DRF, ASP.NET
+* **Databases:** PostgreSQL, SQLite
+* **Web:** HTML, CSS, REST APIs
+* **Tools:** Git, Linux, Vim, Neovim, Arch Linux
+* **Other:** Lua scripting, TUI environments
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/archlinux/archlinux-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" height="40" alt="vim logo"  />
+### 🌟 Current Goals
 
- 
-</div>
+Build software that is not only functional but meaningful. I aim to contribute to open-source projects, collaborate with forward-thinking teams, and engineer solutions that improve people's daily lives.
 
-###
+I treat every line of code as a responsibility — to users, to performance, and to clarity.
+
+---
+
+### 🚀 Notable Projects
+
+* **Furniture Factory API** – A full-featured Django REST API for managing furniture production (orders, workers, materials, finished products).
+* **DRF-based Quiz Platform** – Categorized testing system with user scoring, randomization, and admin control.
+
+---
+
+### ✉️ Contact
+
+* GitHub: [github.com/bekzodkoz](https://github.com/bekzodkoz)
+* Telegram: [@bekzodkoz](https://t.me/bekzodkoz)
+* Email: `bekzodkoz@protonmail.com`
+
+---
+
+<sub><i>This profile is a living document. I grow — and so will it.</i></sub>
