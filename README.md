@@ -1,6 +1,6 @@
 # Bekzodbek Kozimov
 
-**Software Engineer | Backend Developer | Django Enthusiast**
+**Software Engineer | Backend Developer | Nvim Enthusiast**
 
 ---
 
@@ -93,9 +93,8 @@ I treat every line of code as a responsibility — to users, to performance, and
 
 ### ✉️ Contact
 
-* GitHub: [github.com/bekzodkoz](https://github.com/bekzodkoz)
-* Telegram: [@bekzodkoz](https://t.me/bekzodkoz)
-* Email: `bekzodkoz@protonmail.com`
+* Telegram: [@kozimov_01](https://t.me/kozimov_01)
+* Email: `bekzodnodirbekovich@gmail.com`
 
 ---
 
