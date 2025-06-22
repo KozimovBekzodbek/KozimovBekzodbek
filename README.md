@@ -6,9 +6,9 @@
 
 ### 🌐 About Me
 
-I am a software engineer from Uzbekistan with a passion for building clean, scalable, and efficient backend systems. I specialize in Python and Django, and I enjoy crafting APIs that solve real-world problems.
+I am a software engineer from Uzbekistan with a passion for building with no issues, scalable, and efficient backend systems. I specialize in Python and Django, and I enjoy crafting APIs that solve real-world problems.
 
-I believe in continuous learning and growth — not just as a developer, but as a thinker and contributor to the global tech community.
+I believe in continuous learning and growth — not just as a developer, but as a contributor to the global tech community.
 
 ---
 
@@ -58,9 +58,7 @@ I believe in continuous learning and growth — not just as a developer, but as 
 
 ### 🌟 Current Goals
 
-Build software that is not only functional but meaningful. I aim to contribute to open-source projects, collaborate with forward-thinking teams, and engineer solutions that improve people's daily lives.
-
-I treat every line of code as a responsibility — to users, to performance, and to clarity.
+Building software that is not only functional but meaningful. I aim to contribute to open-source projects, collaborate with thinking long term teams, and engineering solutions that improve people's daily lives.
 
 ---
 
