@@ -1,6 +1,6 @@
 # Bekzodbek Kozimov
 
-**Software Engineer | Backend Developer | Neovim Enthusiast | Amateur Chef | Cat Lover | Fitness Enthusiast | Poet | Orator | Visionary Person **
+**Software Engineer | Backend Developer | Neovim Enthusiast | Amateur Chef | Cat Lover | Fitness Enthusiast | Poet | Orator | Visionary Person**
 
 ---
 
